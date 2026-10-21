@@ -3,16 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\khala\\OneDrive\\Desktop\\MyNLayerApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4D18C27-F39F-4F1F-9823-314A093069EC}|Solution Items{D4D18C27-F39F-4F1F-9823-314A093069EC}|C:\\Users\\khala\\OneDrive\\Desktop\\MyNLayerApp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{D4D18C27-F39F-4F1F-9823-314A093069EC}|Solution Items{D4D18C27-F39F-4F1F-9823-314A093069EC}|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{F9EA8FD6-FBFD-E379-41A1-0A46DEE72090}|MyNLayerApp.Business\\MyNLayerApp.Business.csproj|c:\\users\\khala\\onedrive\\desktop\\mynlayerapp\\mynlayerapp.business\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EA8FD6-FBFD-E379-41A1-0A46DEE72090}|MyNLayerApp.Business\\MyNLayerApp.Business.csproj|solutionrelative:mynlayerapp.business\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4D18C27-F39F-4F1F-9823-314A093069EC}|Solution Items{D4D18C27-F39F-4F1F-9823-314A093069EC}|C:\\Users\\khala\\OneDrive\\Desktop\\MyNLayerApp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{D4D18C27-F39F-4F1F-9823-314A093069EC}|Solution Items{D4D18C27-F39F-4F1F-9823-314A093069EC}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{F9EA8FD6-FBFD-E379-41A1-0A46DEE72090}|MyNLayerApp.Business\\MyNLayerApp.Business.csproj|c:\\users\\khala\\onedrive\\desktop\\mynlayerapp\\mynlayerapp.business\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EA8FD6-FBFD-E379-41A1-0A46DEE72090}|MyNLayerApp.Business\\MyNLayerApp.Business.csproj|solutionrelative:mynlayerapp.business\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21152375-D2C4-4E90-8DA5-49EC45CF1494}|MyNLayerApp.Presentation\\MyNLayerApp.Presentation.csproj|c:\\users\\khala\\onedrive\\desktop\\mynlayerapp\\mynlayerapp.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21152375-D2C4-4E90-8DA5-49EC45CF1494}|MyNLayerApp.Presentation\\MyNLayerApp.Presentation.csproj|solutionrelative:mynlayerapp.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E6D5E21-30C6-BE1F-EB5C-7DA86C292514}|MyNLayerApp.Entity\\MyNLayerApp.Entity.csproj|c:\\users\\khala\\onedrive\\desktop\\mynlayerapp\\mynlayerapp.entity\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6D5E21-30C6-BE1F-EB5C-7DA86C292514}|MyNLayerApp.Entity\\MyNLayerApp.Entity.csproj|solutionrelative:mynlayerapp.entity\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A37CADF-26FA-E2B1-0671-7EAF2E3D7556}|MyNLayerApp.DataAccess\\MyNLayerApp.DataAccess.csproj|c:\\users\\khala\\onedrive\\desktop\\mynlayerapp\\mynlayerapp.dataaccess\\contexts\\mynlayerappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A37CADF-26FA-E2B1-0671-7EAF2E3D7556}|MyNLayerApp.DataAccess\\MyNLayerApp.DataAccess.csproj|solutionrelative:mynlayerapp.dataaccess\\contexts\\mynlayerappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6D5E21-30C6-BE1F-EB5C-7DA86C292514}|MyNLayerApp.Entity\\MyNLayerApp.Entity.csproj|c:\\users\\khala\\onedrive\\desktop\\mynlayerapp\\mynlayerapp.entity\\entities\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6D5E21-30C6-BE1F-EB5C-7DA86C292514}|MyNLayerApp.Entity\\MyNLayerApp.Entity.csproj|solutionrelative:mynlayerapp.entity\\entities\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6D5E21-30C6-BE1F-EB5C-7DA86C292514}|MyNLayerApp.Entity\\MyNLayerApp.Entity.csproj|c:\\users\\khala\\onedrive\\desktop\\mynlayerapp\\mynlayerapp.entity\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6D5E21-30C6-BE1F-EB5C-7DA86C292514}|MyNLayerApp.Entity\\MyNLayerApp.Entity.csproj|solutionrelative:mynlayerapp.entity\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A37CADF-26FA-E2B1-0671-7EAF2E3D7556}|MyNLayerApp.DataAccess\\MyNLayerApp.DataAccess.csproj|c:\\users\\khala\\onedrive\\desktop\\mynlayerapp\\mynlayerapp.dataaccess\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A37CADF-26FA-E2B1-0671-7EAF2E3D7556}|MyNLayerApp.DataAccess\\MyNLayerApp.DataAccess.csproj|solutionrelative:mynlayerapp.dataaccess\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A37CADF-26FA-E2B1-0671-7EAF2E3D7556}|MyNLayerApp.DataAccess\\MyNLayerApp.DataAccess.csproj|c:\\users\\khala\\onedrive\\desktop\\mynlayerapp\\mynlayerapp.dataaccess\\configurations\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A37CADF-26FA-E2B1-0671-7EAF2E3D7556}|MyNLayerApp.DataAccess\\MyNLayerApp.DataAccess.csproj|solutionrelative:mynlayerapp.dataaccess\\configurations\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A37CADF-26FA-E2B1-0671-7EAF2E3D7556}|MyNLayerApp.DataAccess\\MyNLayerApp.DataAccess.csproj|c:\\users\\khala\\onedrive\\desktop\\mynlayerapp\\mynlayerapp.dataaccess\\configurations\\employeeprojectconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A37CADF-26FA-E2B1-0671-7EAF2E3D7556}|MyNLayerApp.DataAccess\\MyNLayerApp.DataAccess.csproj|solutionrelative:mynlayerapp.dataaccess\\configurations\\employeeprojectconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A37CADF-26FA-E2B1-0671-7EAF2E3D7556}|MyNLayerApp.DataAccess\\MyNLayerApp.DataAccess.csproj|c:\\users\\khala\\onedrive\\desktop\\mynlayerapp\\mynlayerapp.dataaccess\\configurations\\projectconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A37CADF-26FA-E2B1-0671-7EAF2E3D7556}|MyNLayerApp.DataAccess\\MyNLayerApp.DataAccess.csproj|solutionrelative:mynlayerapp.dataaccess\\configurations\\projectconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6D5E21-30C6-BE1F-EB5C-7DA86C292514}|MyNLayerApp.Entity\\MyNLayerApp.Entity.csproj|c:\\users\\khala\\onedrive\\desktop\\mynlayerapp\\mynlayerapp.entity\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6D5E21-30C6-BE1F-EB5C-7DA86C292514}|MyNLayerApp.Entity\\MyNLayerApp.Entity.csproj|solutionrelative:mynlayerapp.entity\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6D5E21-30C6-BE1F-EB5C-7DA86C292514}|MyNLayerApp.Entity\\MyNLayerApp.Entity.csproj|c:\\users\\khala\\onedrive\\desktop\\mynlayerapp\\mynlayerapp.entity\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6D5E21-30C6-BE1F-EB5C-7DA86C292514}|MyNLayerApp.Entity\\MyNLayerApp.Entity.csproj|solutionrelative:mynlayerapp.entity\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6D5E21-30C6-BE1F-EB5C-7DA86C292514}|MyNLayerApp.Entity\\MyNLayerApp.Entity.csproj|c:\\users\\khala\\onedrive\\desktop\\mynlayerapp\\mynlayerapp.entity\\enums\\employeestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6D5E21-30C6-BE1F-EB5C-7DA86C292514}|MyNLayerApp.Entity\\MyNLayerApp.Entity.csproj|solutionrelative:mynlayerapp.entity\\enums\\employeestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6D5E21-30C6-BE1F-EB5C-7DA86C292514}|MyNLayerApp.Entity\\MyNLayerApp.Entity.csproj|c:\\users\\khala\\onedrive\\desktop\\mynlayerapp\\mynlayerapp.entity\\entities\\common\\auditentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6D5E21-30C6-BE1F-EB5C-7DA86C292514}|MyNLayerApp.Entity\\MyNLayerApp.Entity.csproj|solutionrelative:mynlayerapp.entity\\entities\\common\\auditentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +66,185 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "readme.md",
-              "DocumentMoniker": "C:\\Users\\khala\\OneDrive\\Desktop\\MyNLayerApp\\readme.md",
-              "RelativeDocumentMoniker": "readme.md",
-              "ToolTip": "C:\\Users\\khala\\OneDrive\\Desktop\\MyNLayerApp\\readme.md",
-              "RelativeToolTip": "readme.md",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvxkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-10-20T10:44:13.626Z",
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\khala\\OneDrive\\Desktop\\MyNLayerApp\\MyNLayerApp.Business\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "MyNLayerApp.Business\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\khala\\OneDrive\\Desktop\\MyNLayerApp\\MyNLayerApp.Business\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "MyNLayerApp.Business\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwEMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T14:55:04.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\khala\\OneDrive\\Desktop\\MyNLayerApp\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\khala\\OneDrive\\Desktop\\MyNLayerApp\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-10-20T10:44:02.555Z",
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\khala\\OneDrive\\Desktop\\MyNLayerApp\\MyNLayerApp.Business\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "MyNLayerApp.Business\\Services\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\khala\\OneDrive\\Desktop\\MyNLayerApp\\MyNLayerApp.Business\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "MyNLayerApp.Business\\Services\\DepartmentService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA9wDMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T12:49:52.587Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\khala\\OneDrive\\Desktop\\MyNLayerApp\\MyNLayerApp.Presentation\\Program.cs",
-              "RelativeDocumentMoniker": "MyNLayerApp.Presentation\\Program.cs",
-              "ToolTip": "C:\\Users\\khala\\OneDrive\\Desktop\\MyNLayerApp\\MyNLayerApp.Presentation\\Program.cs",
-              "RelativeToolTip": "MyNLayerApp.Presentation\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "EmployeeProjectConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\khala\\OneDrive\\Desktop\\MyNLayerApp\\MyNLayerApp.DataAccess\\Configurations\\EmployeeProjectConfiguration.cs",
+              "RelativeDocumentMoniker": "MyNLayerApp.DataAccess\\Configurations\\EmployeeProjectConfiguration.cs",
+              "ToolTip": "C:\\Users\\khala\\OneDrive\\Desktop\\MyNLayerApp\\MyNLayerApp.DataAccess\\Configurations\\EmployeeProjectConfiguration.cs",
+              "RelativeToolTip": "MyNLayerApp.DataAccess\\Configurations\\EmployeeProjectConfiguration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBMAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-20T10:42:04.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-21T10:39:03.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeProject.cs",
+              "DocumentMoniker": "C:\\Users\\khala\\OneDrive\\Desktop\\MyNLayerApp\\MyNLayerApp.Entity\\Entities\\EmployeeProject.cs",
+              "RelativeDocumentMoniker": "MyNLayerApp.Entity\\Entities\\EmployeeProject.cs",
+              "ToolTip": "C:\\Users\\khala\\OneDrive\\Desktop\\MyNLayerApp\\MyNLayerApp.Entity\\Entities\\EmployeeProject.cs",
+              "RelativeToolTip": "MyNLayerApp.Entity\\Entities\\EmployeeProject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T10:35:42.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\khala\\OneDrive\\Desktop\\MyNLayerApp\\MyNLayerApp.DataAccess\\Configurations\\ProjectConfiguration.cs",
+              "RelativeDocumentMoniker": "MyNLayerApp.DataAccess\\Configurations\\ProjectConfiguration.cs",
+              "ToolTip": "C:\\Users\\khala\\OneDrive\\Desktop\\MyNLayerApp\\MyNLayerApp.DataAccess\\Configurations\\ProjectConfiguration.cs",
+              "RelativeToolTip": "MyNLayerApp.DataAccess\\Configurations\\ProjectConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T10:29:04.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\khala\\OneDrive\\Desktop\\MyNLayerApp\\MyNLayerApp.Entity\\Entities\\Project.cs",
+              "RelativeDocumentMoniker": "MyNLayerApp.Entity\\Entities\\Project.cs",
+              "ToolTip": "C:\\Users\\khala\\OneDrive\\Desktop\\MyNLayerApp\\MyNLayerApp.Entity\\Entities\\Project.cs",
+              "RelativeToolTip": "MyNLayerApp.Entity\\Entities\\Project.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T10:23:47.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\khala\\OneDrive\\Desktop\\MyNLayerApp\\MyNLayerApp.DataAccess\\Configurations\\EmployeeConfiguration.cs",
+              "RelativeDocumentMoniker": "MyNLayerApp.DataAccess\\Configurations\\EmployeeConfiguration.cs",
+              "ToolTip": "C:\\Users\\khala\\OneDrive\\Desktop\\MyNLayerApp\\MyNLayerApp.DataAccess\\Configurations\\EmployeeConfiguration.cs",
+              "RelativeToolTip": "MyNLayerApp.DataAccess\\Configurations\\EmployeeConfiguration.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T17:34:40.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeStatus.cs",
+              "DocumentMoniker": "C:\\Users\\khala\\OneDrive\\Desktop\\MyNLayerApp\\MyNLayerApp.Entity\\Enums\\EmployeeStatus.cs",
+              "RelativeDocumentMoniker": "MyNLayerApp.Entity\\Enums\\EmployeeStatus.cs",
+              "ToolTip": "C:\\Users\\khala\\OneDrive\\Desktop\\MyNLayerApp\\MyNLayerApp.Entity\\Enums\\EmployeeStatus.cs",
+              "RelativeToolTip": "MyNLayerApp.Entity\\Enums\\EmployeeStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T17:31:56.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\khala\\OneDrive\\Desktop\\MyNLayerApp\\MyNLayerApp.Entity\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "MyNLayerApp.Entity\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\khala\\OneDrive\\Desktop\\MyNLayerApp\\MyNLayerApp.Entity\\Entities\\Employee.cs",
+              "RelativeToolTip": "MyNLayerApp.Entity\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T17:30:05.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartmentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\khala\\OneDrive\\Desktop\\MyNLayerApp\\MyNLayerApp.DataAccess\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeDocumentMoniker": "MyNLayerApp.DataAccess\\Configurations\\DepartmentConfiguration.cs",
+              "ToolTip": "C:\\Users\\khala\\OneDrive\\Desktop\\MyNLayerApp\\MyNLayerApp.DataAccess\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeToolTip": "MyNLayerApp.DataAccess\\Configurations\\DepartmentConfiguration.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwBYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T17:10:36.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyNLayerAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\khala\\OneDrive\\Desktop\\MyNLayerApp\\MyNLayerApp.DataAccess\\Contexts\\MyNLayerAppContext.cs",
+              "RelativeDocumentMoniker": "MyNLayerApp.DataAccess\\Contexts\\MyNLayerAppContext.cs",
+              "ToolTip": "C:\\Users\\khala\\OneDrive\\Desktop\\MyNLayerApp\\MyNLayerApp.DataAccess\\Contexts\\MyNLayerAppContext.cs",
+              "RelativeToolTip": "MyNLayerApp.DataAccess\\Contexts\\MyNLayerAppContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T17:06:05.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuditEntity.cs",
+              "DocumentMoniker": "C:\\Users\\khala\\OneDrive\\Desktop\\MyNLayerApp\\MyNLayerApp.Entity\\Entities\\Common\\AuditEntity.cs",
+              "RelativeDocumentMoniker": "MyNLayerApp.Entity\\Entities\\Common\\AuditEntity.cs",
+              "ToolTip": "C:\\Users\\khala\\OneDrive\\Desktop\\MyNLayerApp\\MyNLayerApp.Entity\\Entities\\Common\\AuditEntity.cs",
+              "RelativeToolTip": "MyNLayerApp.Entity\\Entities\\Common\\AuditEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T17:01:33.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\khala\\OneDrive\\Desktop\\MyNLayerApp\\MyNLayerApp.Entity\\Entities\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "MyNLayerApp.Entity\\Entities\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\khala\\OneDrive\\Desktop\\MyNLayerApp\\MyNLayerApp.Entity\\Entities\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "MyNLayerApp.Entity\\Entities\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T17:00:22.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\khala\\OneDrive\\Desktop\\MyNLayerApp\\MyNLayerApp.Entity\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "MyNLayerApp.Entity\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\khala\\OneDrive\\Desktop\\MyNLayerApp\\MyNLayerApp.Entity\\Entities\\Department.cs",
+              "RelativeToolTip": "MyNLayerApp.Entity\\Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T16:59:32.331Z"
             }
           ]
         },

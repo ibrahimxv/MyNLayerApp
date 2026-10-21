@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyNLayerApp.Entity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c076f34d836350f3269f67bb8e903b9eef704d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0db5724f9159954d5b197debe2d3eb60f6077c92")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyNLayerApp.Entity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyNLayerApp.Entity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

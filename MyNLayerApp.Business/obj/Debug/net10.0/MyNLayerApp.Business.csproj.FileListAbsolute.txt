@@ -1,0 +1,15 @@
+C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Business\bin\Debug\net10.0\MyNLayerApp.Business.deps.json
+C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Business\bin\Debug\net10.0\MyNLayerApp.Business.runtimeconfig.json
+C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Business\bin\Debug\net10.0\MyNLayerApp.Business.dll
+C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Business\bin\Debug\net10.0\MyNLayerApp.Business.pdb
+C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Business\obj\Debug\net10.0\MyNLayerApp.Business.csproj.AssemblyReference.cache
+C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Business\obj\Debug\net10.0\MyNLayerApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Business\obj\Debug\net10.0\MyNLayerApp.Business.AssemblyInfoInputs.cache
+C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Business\obj\Debug\net10.0\MyNLayerApp.Business.AssemblyInfo.cs
+C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Business\obj\Debug\net10.0\MyNLayerApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Business\obj\Debug\net10.0\MyNLayerApp.Business.sourcelink.json
+C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Business\obj\Debug\net10.0\MyNLayerApp.Business.dll
+C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Business\obj\Debug\net10.0\refint\MyNLayerApp.Business.dll
+C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Business\obj\Debug\net10.0\MyNLayerApp.Business.pdb
+C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Business\obj\Debug\net10.0\MyNLayerApp.Business.genruntimeconfig.cache
+C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Business\obj\Debug\net10.0\ref\MyNLayerApp.Business.dll

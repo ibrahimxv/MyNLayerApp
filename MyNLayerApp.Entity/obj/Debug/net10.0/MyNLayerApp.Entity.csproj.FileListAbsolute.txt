@@ -1,0 +1,15 @@
+C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Entity\bin\Debug\net10.0\MyNLayerApp.Entity.deps.json
+C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Entity\bin\Debug\net10.0\MyNLayerApp.Entity.runtimeconfig.json
+C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Entity\bin\Debug\net10.0\MyNLayerApp.Entity.dll
+C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Entity\bin\Debug\net10.0\MyNLayerApp.Entity.pdb
+C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Entity\obj\Debug\net10.0\MyNLayerApp.Entity.csproj.AssemblyReference.cache
+C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Entity\obj\Debug\net10.0\MyNLayerApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Entity\obj\Debug\net10.0\MyNLayerApp.Entity.AssemblyInfoInputs.cache
+C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Entity\obj\Debug\net10.0\MyNLayerApp.Entity.AssemblyInfo.cs
+C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Entity\obj\Debug\net10.0\MyNLayerApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Entity\obj\Debug\net10.0\MyNLayerApp.Entity.sourcelink.json
+C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Entity\obj\Debug\net10.0\MyNLayerApp.Entity.dll
+C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Entity\obj\Debug\net10.0\refint\MyNLayerApp.Entity.dll
+C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Entity\obj\Debug\net10.0\MyNLayerApp.Entity.pdb
+C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Entity\obj\Debug\net10.0\MyNLayerApp.Entity.genruntimeconfig.cache
+C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Entity\obj\Debug\net10.0\ref\MyNLayerApp.Entity.dll
