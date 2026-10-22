@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyNLayerApp.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0db5724f9159954d5b197debe2d3eb60f6077c92")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08d051ae82eef86a50bc7c9c88379e120e1b9cf4")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyNLayerApp.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyNLayerApp.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3723,6 +3723,7 @@
       "Microsoft.EntityFrameworkCore >= 10.0.13",
       "Microsoft.EntityFrameworkCore.SqlServer >= 10.0.13",
       "Microsoft.EntityFrameworkCore.Tools >= 10.0.13",
+      "Microsoft.Extensions.DependencyInjection >= 10.0.13",
       "System.Security.Cryptography.Pkcs >= 10.0.13"
     ]
   },
@@ -3789,6 +3790,10 @@
           "Microsoft.EntityFrameworkCore.Tools": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
+            "target": "Package",
+            "version": "[10.0.13, )"
+          },
+          "Microsoft.Extensions.DependencyInjection": {
             "target": "Package",
             "version": "[10.0.13, )"
           },

@@ -13,3 +13,8 @@ C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Business\obj\Debug\net10
 C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Business\obj\Debug\net10.0\MyNLayerApp.Business.pdb
 C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Business\obj\Debug\net10.0\MyNLayerApp.Business.genruntimeconfig.cache
 C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Business\obj\Debug\net10.0\ref\MyNLayerApp.Business.dll
+C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Business\bin\Debug\net10.0\MyNLayerApp.DataAccess.dll
+C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Business\bin\Debug\net10.0\MyNLayerApp.Entity.dll
+C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Business\bin\Debug\net10.0\MyNLayerApp.DataAccess.pdb
+C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Business\bin\Debug\net10.0\MyNLayerApp.Entity.pdb
+C:\Users\khala\OneDrive\Desktop\MyNLayerApp\MyNLayerApp.Business\obj\Debug\net10.0\MyNLayer.47E94948.Up2Date
